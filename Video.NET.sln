@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28516.95
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.NET", "Video.NET\Video.NET.csproj", "{A5F26289-1B13-4DE1-8A8B-1910E17B4000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video.NET", "Video.NET\Video.NET.csproj", "{A5F26289-1B13-4DE1-8A8B-1910E17B4000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video.NET.Tests", "Video.NET.Tests\Video.NET.Tests.csproj", "{DFEABCDB-9653-4F90-9CEB-7C0884AE091E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A5F26289-1B13-4DE1-8A8B-1910E17B4000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F26289-1B13-4DE1-8A8B-1910E17B4000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F26289-1B13-4DE1-8A8B-1910E17B4000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEABCDB-9653-4F90-9CEB-7C0884AE091E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEABCDB-9653-4F90-9CEB-7C0884AE091E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEABCDB-9653-4F90-9CEB-7C0884AE091E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEABCDB-9653-4F90-9CEB-7C0884AE091E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
